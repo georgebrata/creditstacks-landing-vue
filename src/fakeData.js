@@ -4,13 +4,13 @@ export const landing1 = {
     title: 'CreditStacks',
     logoUrl: 'https://landing.creditstacks.com/wp-content/uploads/2020/03/logo.svg',
     infoImageUrl: 'https://landing.creditstacks.com/wp-content/themes/creditstacks/img/banks_1.svg',
-    cardImageUrl: 'https://landing.creditstacks.com/wp-content/themes/creditstacks/img/xcard_2.png.pagespeed.ic.6SF3DYu9f_.webp',
+    cardImageUrl: 'https://landing.jaspercard.com/wp-content/themes/creditstacks/img/card_2.png',
     nav: {
         // todo: if defined above, use {logoUrl}, {name}, {infoImageUrl}, {cardImageUrl} for dynamic content in header/footer
         html: ``, //rawHTML in header, if needed
         hidden: false
     },
-    heroImageUrl: 'https://landing.creditstacks.com/wp-content/uploads/2020/03/xcodearea.png.pagespeed.ic.Acj0mG5yWY.webp',
+    heroImageUrl: 'https://landing.jaspercard.com/wp-content/uploads/2020/03/codearea.png',
     c2aLink: 'https://www.creditstacks.com/user/register?type=email&',
     c2aLinkTitle: 'Sign Up',
     c2aTitle: "Let's get started by creating your account login!",
