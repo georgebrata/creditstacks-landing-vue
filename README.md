@@ -1,8 +1,11 @@
 # creditstacks-landing-vue
 
-A simple configurable landing page with a main Call-To-Action link. 
+A simple configurable landing page with a main Call-To-Action link 🖱
 
 
+![desktop](https://i.ibb.co/rHJ4KD8/creditstack-desktop-landing-vue.png)
+
+Note: design implementation is not pixel perfer, but it can be improved in a future iteration.
 
 ## Installation steps
 
@@ -13,7 +16,7 @@ npm i
 npm run dev
 ```
 
-Open browser on (port 8080)[http://localhost:8080/] to preview the landing page 🖥
+Open browser on [port 8080](http://localhost:8080/) to preview the landing page 🖥
 
 
 ### Config structure
