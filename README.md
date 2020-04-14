@@ -26,6 +26,8 @@ The landing page data is loaded from a local JSON Object, but it can alse be fet
 ```js
 {
     title: 'CreditStacks',
+    // this property is not used at the moment, it's just an idea on how we can handle different landing page themes 
+    theme: 'default' | 'black-friday' | 'xmas',
     logoUrl: 'https://landing.creditstacks.com/wp-content/uploads/2020/03/logo.svg',
     infoImageUrl: 'https://landing.creditstacks.com/wp-content/themes/creditstacks/img/banks_1.svg',
     cardImageUrl: 'https://landing.creditstacks.com/wp-content/themes/creditstacks/img/xcard_2.png.pagespeed.ic.6SF3DYu9f_.webp',
