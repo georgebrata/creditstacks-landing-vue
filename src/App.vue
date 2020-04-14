@@ -7,7 +7,7 @@
           <img :src="page.logoUrl" class="mx-auto" />
         </li>
         <li class="-mt-2 w-full lg:w-1/3">
-          <img :src="page.cardImageUrl" class="mx-auto" style="max-height: 15vh;" />
+          <img :src="page.cardImageUrl" class="mx-auto" style="max-height: 25vh;" />
         </li>
         <li class="mr-3 p-8 w-full lg:w-1/3">
           <img :src="page.infoImageUrl" class="mx-auto" />
